@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center">I'm Caleb John Sacdalan</h1>
+<h1 align="center">Hi 👋, I'm Caleb John SAcdalan</h1>
 <h3 align="center">an aspiring software engineer with a passion for building innovative solutions and writing clean, efficient code. Currently pursuing a Bachelor of Science in Information Technology (BSIT) and honing my skills to become a full-stack mobile developer.</h3>
 
 - 📫 How to reach me **calebjohn.sacdalan17@gmail.com || calebjohn.sacdalan@sdca.edu.ph**
